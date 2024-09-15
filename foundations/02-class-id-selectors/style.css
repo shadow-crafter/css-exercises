@@ -1,8 +1,8 @@
 .odd {
     background-color: rgb(247, 95, 95);
-    font-family: Verdana, serif, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
-#scaled {
+.font-scaled {
     font-size: 24px;
 }
 #blue {
@@ -11,6 +11,5 @@
 }
 #green {
     background-color: rgb(25, 220, 110);
-    font-size: 24px;
     font-weight: bold;
 }
